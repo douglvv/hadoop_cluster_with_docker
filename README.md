@@ -1,6 +1,6 @@
 **Documentação para Configuração de um Cluster Hadoop utilizando Docker**
 
-** PT-BR **
+**PT-BR**
 
 Este guia descreve como criar e configurar um cluster Hadoop em um ambiente Docker. Certifique-se de seguir os passos detalhadamente para garantir uma configuração adequada do seu cluster.
 
@@ -210,7 +210,7 @@ hadoop jar $HADOOP_HOME/share/hadoop/mapreduce/hadoop-mapreduce-examples-3.3.6.j
 Isso conclui a configuração do cluster Hadoop utilizando Docker. Certifique-se de revisar os passos e ajustar conforme necessário para o seu ambiente.
 
 
-** EN **
+**EN**
 
 **Documentation for Setting Up a Hadoop Cluster using Docker**
 
